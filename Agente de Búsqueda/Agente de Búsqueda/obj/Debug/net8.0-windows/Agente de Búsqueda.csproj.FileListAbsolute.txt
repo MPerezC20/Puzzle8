@@ -1,0 +1,16 @@
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\bin\Debug\net8.0-windows\Agente de Búsqueda.exe
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\bin\Debug\net8.0-windows\Agente de Búsqueda.deps.json
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\bin\Debug\net8.0-windows\Agente de Búsqueda.runtimeconfig.json
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\bin\Debug\net8.0-windows\Agente de Búsqueda.dll
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\bin\Debug\net8.0-windows\Agente de Búsqueda.pdb
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente_de_Búsqueda.Form1.resources
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.csproj.GenerateResource.cache
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.AssemblyInfoInputs.cache
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.AssemblyInfo.cs
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.csproj.CoreCompileInputs.cache
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.dll
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\refint\Agente de Búsqueda.dll
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.pdb
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\Agente de Búsqueda.genruntimeconfig.cache
+C:\Users\Melany\Desktop\Poyectos\Puzzle8-Lab1\Agente de Búsqueda\Agente de Búsqueda\obj\Debug\net8.0-windows\ref\Agente de Búsqueda.dll
